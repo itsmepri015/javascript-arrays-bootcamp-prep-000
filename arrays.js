@@ -34,3 +34,8 @@ function accessElementInArray(arrary,index)
   
   return array[index]
 }
+
+function removeElementFromBeginningOfArray(array)
+{
+}
+}
