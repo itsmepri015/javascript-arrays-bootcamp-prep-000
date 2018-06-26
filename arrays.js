@@ -3,4 +3,7 @@ function addElementToBeginningOfArray()
 {
 }
 
-function destructivelyAdd
+function destructivelyAddElementToBeginningOfArray()
+{
+  
+}
